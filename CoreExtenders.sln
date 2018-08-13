@@ -35,7 +35,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreExtenders.FIGlet", "Cor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreExtenders.BigMath", "CoreExtenders.BigMath\CoreExtenders.BigMath.csproj", "{3904205D-5E0F-4CA7-949C-1BD0581D1244}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreExtenders.Bogus", "CoreExtenders.Bogus\CoreExtenders.Bogus.csproj", "{F071E194-2231-4C1D-A38C-2A6C25A4062C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreExtenders.Bogus", "CoreExtenders.Bogus\CoreExtenders.Bogus.csproj", "{F071E194-2231-4C1D-A38C-2A6C25A4062C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreExtenders.JsonToClassConverter", "CoreExtenders.JsonToClassConverter\CoreExtenders.JsonToClassConverter.csproj", "{CFCFDEAE-8F77-4894-94DF-5C421BB9A78B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{F071E194-2231-4C1D-A38C-2A6C25A4062C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F071E194-2231-4C1D-A38C-2A6C25A4062C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F071E194-2231-4C1D-A38C-2A6C25A4062C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFCFDEAE-8F77-4894-94DF-5C421BB9A78B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFCFDEAE-8F77-4894-94DF-5C421BB9A78B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFCFDEAE-8F77-4894-94DF-5C421BB9A78B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFCFDEAE-8F77-4894-94DF-5C421BB9A78B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
